@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  base: '/',  // 👈 Add this line (use your repo name)
+  base: '/currency-converter/',  // 👈 Add this line (use your repo name)
 });
